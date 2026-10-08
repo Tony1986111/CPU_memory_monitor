@@ -58,3 +58,7 @@ swift run            # build and run a debug copy
 | `Sources/IslandView.swift` | SwiftUI view for the collapsed wings and the details panel |
 
 "Memory used" is `1 − kern.memorystatus_level`, the same available-memory figure that drives Activity Monitor's memory pressure graph. Processes owned by other users (such as root daemons) can't be read without root and are skipped.
+
+## License
+
+[MIT](LICENSE) © 2026 Tony Ye
