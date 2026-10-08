@@ -1,0 +1,17 @@
+# macOS
+.DS_Store
+
+# SwiftPM build cache
+.build/
+.swiftpm/
+Package.resolved
+
+# Xcode
+DerivedData/
+xcuserdata/
+*.xcuserstate
+
+# Build outputs from build.sh (.app / .dmg)
+build/
+*.dmg
+*.app
